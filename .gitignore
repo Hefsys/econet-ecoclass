@@ -1,0 +1,23 @@
+# Credenciais
+.env
+
+# Dados do cliente (nao versionar)
+Simulacao_*.xlsx
+*.xlsx
+*.jsonl
+
+# Saidas geradas
+Econet_EcoClass_Resultado.xlsx
+Econet_EcoClass_RPA.xlsx
+Econet_EcoClass_bruto.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SO / editor
+.DS_Store
+.vscode/
+.idea/
